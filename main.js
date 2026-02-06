@@ -1,7 +1,7 @@
 let moon = document.getElementById('moon');
 let cityLeft = document.getElementById('cityLeft');
 let cityRight = document.getElementById('cityRight');
-let heroText = document.querySelector('.hero p');
+let heroText1 = document.querySelector('.hero p');
 
 window.addEventListener("scroll", ()=>{
     let scrollValue = window.scrollY;
