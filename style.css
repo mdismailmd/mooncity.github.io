@@ -87,7 +87,7 @@ a:hover, .active{
 main{
 	position: relative;
 	padding: 92px 48px;
-	background-color: black;
+	background-color:  rgb(68, 65, 65);
 }
 main  div{
 	display: flex;
